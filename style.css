@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 120px;
+    background-color: lightgray;
+    font-size: 25px;
+}
+
+/* Hlavní nadpis */
+h1 {
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 40px;
+    color: rgb(150, 1, 1);
+    text-transform: uppercase;
+}
+
+h2 {
+    padding: 25px 0;
+}
